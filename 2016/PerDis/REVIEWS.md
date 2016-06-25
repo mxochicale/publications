@@ -1,9 +1,8 @@
 Review 1
-Overall evaluation:
-1: (weak accept)
-Reviewer's confidence:
-2: (low)
-Review
+---------
+Overall evaluation:  1: (weak accept)  
+Reviewer's confidence: 2: (low)  
+
 Review:	The work presents a preliminary study that investigates variances in the users' performance of simple motions. The study was conducted with six users who had to perform 6 different gestures each for 20 seconds. Data was provided by inertial tracking devices. The authors analyse the data by combining time-delay embedding, principle component analysis and percentage of cumulative energy.
 
 The overall layout of the poster is simplistic and clear. The contents are easy to follow.
@@ -16,11 +15,10 @@ Overall, I consider the results and the described uses in the conclusion/outlook
 
 
 Review 2
-Overall evaluation:
-1: (weak accept)
-Reviewer's confidence:
-5: (expert)
-Review
+---------
+Overall evaluation: 1: (weak accept)  
+Reviewer's confidence: 5: (expert)  
+
 Review:	The authors present their work on the variability of mid-air gestures. They frame their work in the context of rehabilitation. Analysis of gestures using PCA should help getting insights into variability.
 
 The presented approach and work is interesting. Most work on mid-air gestures and motion focusses either on recognising a discrete set of gestures or creating taxonomies of the same. Focusing on the inter-gesture variability is an interesting approach and I can see applications in terms of recognition as well as rehabilitation, as framed by the authors.
