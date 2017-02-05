@@ -17,11 +17,16 @@ overall magnitude characteristics.
 
 
 #### Authors:
-M. A. Perez-Xochicale,  xoch@inaoep.mx, Department of Electronics, Institute INAOE
-G. Jovanovic Dolecek, gordana@inaoep.mx, Department of Electronics, Institute INAOE  
+Miguel P. Xochicale  
+xoch@inaoep.mx  
+Department of Electronics   
+Institute INAOE  
 
-#### Files:
-[PDF](https://github.com)
+G. Jovanovic Dolecek  
+gordana@inaoep.mx   
+Department of Electronics    
+Institute INAOE  
+
 
 
 Conference Information

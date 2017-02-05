@@ -30,5 +30,4 @@ Name of the event:	16th International Conference on Electronics, Communications 
 Web page:	http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10680
 
 
-#### Files:
-[PDF](https://github.com)
+
