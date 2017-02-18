@@ -1,8 +1,20 @@
 
 Repository for publications
 ---
-##### Miguel P. Xochicale
-I believe that human knowledge can only be advanced as long as it can be explicitly replicated.
+
+> "I believe that any scientific endeavour that aims to contribute the advance of human knowledge can only be possible as long as
+the contributions are explicitly replicated."
 
 
-Learn more about Replicated Science at http://rescience.github.io/
+ > Miguel P. Xochicale <http://mxochicale.github.io>  
+ > Doctoral Researcher in Human-Robot Interaction   
+ > University of Birmingham, U.K. (2014-2018)  
+
+
+Therefore, I am putting good efforts in going to the direction
+of [Replicated Science](http://rescience.github.io/).
+
+
+
+##### TO-DO list
+* ...
