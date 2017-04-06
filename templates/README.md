@@ -8,9 +8,12 @@ replication of already published research, promoting new and open-source
 implementations in order to ensure that the original research is reproducible.
 
 
+MOVE this one here 
+https://github.com/mxochicale/latex/tree/master/manuscripts/ieee_transaction
+
+Elsevier 
 
 
-
-
-
+# TODO 
+* add description for each section
 
