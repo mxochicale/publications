@@ -2,7 +2,6 @@ Requirements to use ReScience-submission Template
 
 # On Ubuntu 14.04 x64
 
-
 ## Quick Cabal Method
 
 Following  https://github.com/jgm/pandoc/blob/master/INSTALL.md#quick-cabal-method
