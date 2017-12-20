@@ -22,6 +22,11 @@ University of Oulu, Finland
 
 
 
+# TODO LIST
+
+- [ ] Add data and r-scripts that reproduce the results
+
+
 Conference Information
 ----------------------
 
