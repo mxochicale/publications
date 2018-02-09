@@ -1,12 +1,19 @@
-.PHONY: clean all
+fileinfo := Makefile to compile a tex document
+author   := github.com/mxochicale 
+version  := alpha
 
+FILENAME = plos_latex_template
+LATEX 	 = latex
+DVIPDF = dvipdf
 all:
-	latex plos_latex_template.tex
-	# bibtex plos_latex_template
-	latex plos_latex_template.tex
-	latex plos_latex_template.tex
-	dvipdf plos_latex_template.dvi
-
+	$(LATEX) $(FILENAME).tex
+	$(LATEX) $(FILENAME).tex
+	$(LATEX) $(FILENAME).tex
+	$(DVIPDF) $(FILENAME).dvi
+	evince $(FILENAME).pdf &
+	@echo "================================================"
+	@echo " PDF file has been created! :) "
+	@echo "================================================"
 
 clean:
 	rm -f *~
@@ -16,4 +23,8 @@ clean:
 	rm -f *.dvi
 	rm -f *.log
 	rm -f *.out
-	rm -f *.pdf
+	rm -f `ls $(FILENAME).* | grep -v .tex | grep -v .pdf`	
+	@echo "================================================"
+	@echo "All cleaned! :) "
+	@echo "================================================"
+
