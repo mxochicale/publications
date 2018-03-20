@@ -1,0 +1,26 @@
+
+TEXFILE= deep_cg
+
+LATEX = pdflatex -shell-escape -interaction=nonstopmode -file-line-error
+BIB = bibtex
+
+all:
+	$(LATEX) $(TEXFILE).tex
+	$(LATEX) $(TEXFILE).tex
+	$(BIB) $(TEXFILE)
+	$(BIB) $(TEXFILE)
+	$(LATEX) $(TEXFILE).tex
+	$(LATEX) $(TEXFILE).tex
+	@echo "================================================"
+	@echo "All done! pdf file has been created. "
+	@echo "================================================"
+	evince $(TEXFILE).pdf &
+
+clean:
+	rm -f *.aux *.bbl *.blg *.log *.out *.pdf 
+	rm -f *.backup
+	@echo "================================================"
+	@echo "All cleaned!  "
+	@echo "================================================"
+
+
